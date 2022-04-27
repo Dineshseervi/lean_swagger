@@ -10,4 +10,6 @@ public class LearnSwaggerApplication {
 		SpringApplication.run(LearnSwaggerApplication.class, args);
 	}
 
+
+
 }
